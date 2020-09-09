@@ -76,3 +76,8 @@ C:\Users\andre\OneDrive\_Programmering\Teknik_Hogskolan\2020_HT\Utveckling av mo
 C:\Users\andre\OneDrive\_Programmering\Teknik_Hogskolan\2020_HT\Utveckling av moln\TestAPI\TestAPIAndre\obj\Debug\netcoreapp3.1\TestAPI.dll
 C:\Users\andre\OneDrive\_Programmering\Teknik_Hogskolan\2020_HT\Utveckling av moln\TestAPI\TestAPIAndre\obj\Debug\netcoreapp3.1\TestAPI.pdb
 C:\Users\andre\OneDrive\_Programmering\Teknik_Hogskolan\2020_HT\Utveckling av moln\TestAPI\TestAPIAndre\obj\Debug\netcoreapp3.1\TestAPI.genruntimeconfig.cache
+C:\Users\andre\OneDrive\_Programmering\Teknik_Hogskolan\2020_HT\Utveckling av moln\TestAPI\TestAPIAndre\bin\Debug\netcoreapp3.1\publish\web.config
+C:\Users\andre\OneDrive\_Programmering\Teknik_Hogskolan\2020_HT\Utveckling av moln\TestAPI\TestAPIAndre\bin\Debug\netcoreapp3.1\publish\appsettings.Development.json
+C:\Users\andre\OneDrive\_Programmering\Teknik_Hogskolan\2020_HT\Utveckling av moln\TestAPI\TestAPIAndre\bin\Debug\netcoreapp3.1\publish\appsettings.json
+C:\Users\andre\OneDrive\_Programmering\Teknik_Hogskolan\2020_HT\Utveckling av moln\TestAPI\TestAPIAndre\bin\Debug\netcoreapp3.1\publish\TestAPI.deps.json
+C:\Users\andre\OneDrive\_Programmering\Teknik_Hogskolan\2020_HT\Utveckling av moln\TestAPI\TestAPIAndre\bin\Debug\netcoreapp3.1\publish\TestAPI.runtimeconfig.json
