@@ -1,0 +1,4 @@
+language: Csharp
+rvm:
+ - 2.2
+ - .net
